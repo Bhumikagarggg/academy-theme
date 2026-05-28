@@ -17,7 +17,7 @@ The Academy uses the following content hierarchy:
 
 ### Learning Path → Course → Module
 
-In addition to this core structure, the following content types are available:
+In addition to  this core structure, the following content types are available:
 
 - **Lab** - Hands-on practical exercises
 - **Challenge** - Skill assessment challenges
