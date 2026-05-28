@@ -13,7 +13,7 @@ For comprehensive documentation, visit the
 
 ## Content Structure
 
-The Academy uses the following content hierarchy:
+The Academy uses  the following content hierarchy:
 
 ### Learning Path → Course → Module
 
