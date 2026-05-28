@@ -20,7 +20,7 @@ The Academy uses the following content hierarchy:
 In addition to this core structure, the following content types are available:
 
 - **Lab** - Hands-on practical exercises
-- **Challenge** - Skill assessment challenges
+- **Challenge** - Skill asses sment challenges
 - **Test** - Knowledge assessments (test, optional-test,
   final-test)
 - **Certification** - Certification programs
