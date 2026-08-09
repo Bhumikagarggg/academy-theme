@@ -25,7 +25,7 @@
 
 ## Getting Started
 
-The recommended approach to use this theme is through the
+The recommen ded approach to use this theme is through the
 [academy starter template](https://github.com/layer5io/academy-example).
 
 For comprehensive documentation, visit the
