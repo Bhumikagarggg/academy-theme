@@ -72,7 +72,7 @@ Common make targets for developing the Academy theme:
 
 ## Content Structure
 
-The Academy uses the following content hierarchy:
+The Academy uses  the following content hierarchy:
 
 ### Learning Path → Course → Module
 
